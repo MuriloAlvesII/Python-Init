@@ -10,9 +10,10 @@ Aqui você encontrará os links para os repositórios dos projetos desenvolvidos
 
 | # | Projetos | Descrição | Tecnologia | Repositório |
 | - | -------- | --------- | ---------- | ----------- |
-| 1 | Gradus-Unus | Revisão dos conhecimentos sobre Python - estrutura básica | Python 3 | [Acesser](https://github.com/MuriloAlvesII/Gradus-Unus.git) |
+| 1 | Gradus-Unus | Revisão dos conhecimentos fundamentais de Python e da estrutura básica da linguagem. | Python 3 | [Acesser](https://github.com/MuriloAlvesII/Gradus-Unus.git) |
 | 2 | | | | |
 
 # Matérias de Apoio
 
 -
+> Update V0.1
