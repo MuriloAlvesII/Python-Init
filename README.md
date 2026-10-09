@@ -15,8 +15,14 @@ Aqui você encontrará os links para os repositórios dos projetos desenvolvidos
 
 # Matérias de Apoio
 
+## 1. Documentação
+
 - [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
 - [Tutorial oficial do Python](https://docs.python.org/pt-br/3/tutorial/)
 - [Python Brasil](https://python.org.br/)
+
+## 2. Recursos complementares
+
+- [Python-Init — Notion](https://app.notion.com/p/Python-Init-3f4e2d698b898088812ffd0badedc692?source=copy_link) — Registro e acompanhamento dos estudos de Python.
 
 > Update V0.2
