@@ -17,7 +17,6 @@ Aqui você encontrará os links para os repositórios dos projetos desenvolvidos
 
 - [Documentação oficial do Python](https://docs.python.org/pt-br/3/)
 - [Tutorial oficial do Python](https://docs.python.org/pt-br/3/tutorial/)
-- [Python Package Index — PyPI](https://pypi.org/)
 - [Python Brasil](https://python.org.br/)
 
 > Update V0.2
